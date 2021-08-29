@@ -1,4 +1,4 @@
-# MathWindow
+# FunctionBuilder
 A Tkinter-based GUI for quickly visualizing math equations
 
 Feel free to use this! It was just for fun.
