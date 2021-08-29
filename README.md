@@ -11,5 +11,5 @@ For example:
 Title: Sine of x
 Function: sin(x)
 ```
-After entering your info, click "Submit!" to add that equation to the list of equations. When you click it, every equation will load on the graph.
-To clear the graph, click "Clear all graphs"
+After entering your info, click "Submit!" to add that equation to the list of equations. When you click it, every equation you've added will load on the graph.
+To clear the graph, click "Clear the graph"
