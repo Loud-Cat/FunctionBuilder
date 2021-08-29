@@ -1,5 +1,5 @@
 # FunctionBuilder
-A Tkinter-based GUI for quickly visualizing math equations
+A Tkinter-based GUI for visualizing math equations
 
 Feel free to use this! It was just for fun.
 The only required module is `matplotlib` since `math` is builtin.
