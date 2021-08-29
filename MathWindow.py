@@ -79,7 +79,7 @@ class Window():
         self.submit = Button(self.box, text="Submit!", font=Font(size=14), command=self.Submit)
         self.submit.grid(row=5, column=0, **pad(10))
 
-        self.clear = Button(self.box, text="Clear all charts", font=Font(size=14), command=self.Clear)
+        self.clear = Button(self.box, text="Clear the graph", font=Font(size=14), command=self.Clear)
         self.clear.grid(row=5, column=1, **pad(10))
 
         self.error = Label(self.box, text="Errors will appear here.")
